@@ -9,7 +9,7 @@ html, body{
 }
 
 body{
-    max-width:1000px;
+    max-width:1200px;
     min-width:650px;
 	margin: 0 auto;
     background-color:white;
@@ -19,7 +19,7 @@ body{
 #all_info{
     width:35%;
     height:100%;
-    padding:50px 35px 50px 30px;
+    padding:35px 35px 35px 30px;
     font-size:12px;
     float:left;
     background-color:black;
@@ -126,6 +126,7 @@ h5{
 h6{
     font-size: 1.3em;
     color: white;
+    background-color: black;
 }
 
 
